@@ -2,7 +2,7 @@ package main
 
 import (
 	"Test/a"
-	"Test/b"
+	"Test/c"
 	"fmt"
 )
 
@@ -13,5 +13,5 @@ func main() {
 
 func SayAll() {
 	a.Say()
-	b.Say()
+	c.Say()
 }
