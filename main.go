@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Test/a"
 	"Test/c"
 	"fmt"
+	"github.com/chaosi-zju/Test/a"
 )
 
 func main() {
