@@ -1,4 +1,4 @@
-module Test
+module github.com/chaosi-zju/Test
 
 go 1.16
 
